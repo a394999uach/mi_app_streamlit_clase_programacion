@@ -1,3 +1,3 @@
 import streamlit as st
 
-st.title["Esta es mi aplicacion XD7"]
+st.title["Esta es mi aplicacion 🦑"]
